@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The follies of France, or, A true relation of the extravagant rejoycings that were made by the French King's command, in most cities of  France, for the pretended death of His Majesty (William, King of Great-Britain) contained in a letter written from a Roman Catholick citizen of Paris (by way of Holland) to his correspondent in London ; translated from the French original.</title>
+            <author>Roman Catholick citizen of Paris.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39855</idno>
+            <idno type="STC">Wing F1401</idno>
+            <idno type="STC">ESTC R6856</idno>
+            <idno type="EEBO-CITATION">11798182</idno>
+            <idno type="OCLC">ocm 11798182</idno>
+            <idno type="VID">49328</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39855)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49328)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 493:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The follies of France, or, A true relation of the extravagant rejoycings that were made by the French King's command, in most cities of  France, for the pretended death of His Majesty (William, King of Great-Britain) contained in a letter written from a Roman Catholick citizen of Paris (by way of Holland) to his correspondent in London ; translated from the French original.</title>
+                  <author>Roman Catholick citizen of Paris.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Timothy Goodwin,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49328:1"/>
+            <pb n="1" facs="tcp:49328:1" rendition="simple:additions"/>
+            <head>THE <hi>Follies of France;</hi> OR, A True RELATION of the Extravagant Rejoycings that were made by the <hi>French</hi> King's Command, in moſt Cities of <hi>France,</hi> for the pretended Death of His Ma<g ref="char:EOLhyphen"/>jeſty (<hi>WILLIAM,</hi> KING of <hi>Great-Britain</hi>) con<g ref="char:EOLhyphen"/>tained in a Letter, written from a <hi>Roman Catholick</hi> Citi<g ref="char:EOLhyphen"/>zen of <hi>Paris</hi> (by way of <hi>Holland</hi>) to his Correſpon<g ref="char:EOLhyphen"/>dent in <hi>London.</hi>
+            </head>
+            <p>Tranſlated from the <hi>French</hi> Original.</p>
+         </div>
+         <div type="foreword">
+            <p>THE preſent Letter having very fortunately fallen into my hands, I judged it worthy to be committed to the Preſs, that all the World might be informed of thoſe exceſſive <hi>Tranſports,</hi> and other unaccountable <hi>Fopperies</hi> that were tranſacted in <hi>France</hi> by order of the Court, upon the imaginary Death of King <hi>WILLIAM;</hi> and particularly, becauſe the Author ſeems to be ſo abundantly aſſured of the truth of all theſe proceed<g ref="char:EOLhyphen"/>ings, being an Eye-witneſs of them at <hi>Paris.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <opener>
+               <dateline>
+                  <hi>Paris,</hi> 
+                  <date>
+                     <hi>Auguſt</hi> the 8th. 1690.</date>
+               </dateline>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have been very regular and conſtant in Writing to you, nevertheleſs I was obliged to take ſome time to put my ſelf in a capacity of ſatisfy<g ref="char:EOLhyphen"/>ing your laſt demands, that I might ſend you nothing, but the Truth; and withal, a particular account of every memorable Circumſtance. You'l be no loſer by this delay of mine, ſince inſtead of a bare Letter, you receive a kind of an Epiſtle. However it is, <hi>Sir,</hi> you'l find an exact re<g ref="char:EOLhyphen"/>lation of what I have either been an Eye-witneſs, or informed my ſelf from unqueſtionable hands upon this occaſion.</p>
+            <p>The defeat of the <hi>Iriſh</hi> Army, and the return of King <hi>James,</hi> was matter of extraordinary mortification, not only to our Court, but to all <hi>France</hi> in general: However this Conſternation (Heaven be praiſed) was not of long continuance, and our ſorrow was immediately converted into joy by reaſon of the mighty News which the King commanded to be publiſhed from the Twenty ſeventh to the Twenty eighth Night of the laſt Month, by the Can<g ref="char:EOLhyphen"/>non of the <hi>Baſtile,</hi> which was diſcharged about Three a C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ock in the Morn<g ref="char:EOLhyphen"/>ing; and by the Commiſſioners, who, at the ſame time, knocked at the Doors of every Citizen without any difference, crying aloud with all their force, <hi>Ariſe, get up, and make Bonefires, the Prince of</hi> Orange, <hi>and Mareſ<g ref="char:EOLhyphen"/>chal</hi> Schomberg <hi>are dead.</hi> This ſolemn declaration, made by His Majeſty's
+<pb n="2" facs="tcp:49328:2"/>Order, obliged the whole Town to get up, and paſs the remainder of the night, and the following day, in Bonefires, and all other publick teſtimonies of joy: One could hear nothing but Trumpets, Drums, Hautboys, Fifes, Flutes and Sackbuts; one could ſee nothing but Tables furniſhed in every Street, where Wine was not ſpared in the leaſt. The Religious Fraternities diſtinguiſhed themſelves, and particularly the good Fathers the <hi>Cordeliers,</hi> who ſpent all night long a prodigious quantity of <hi>Petards,</hi> and other Fireworks in their Garden; and diſtributed their Wine about in abundance. The ſame was like<g ref="char:EOLhyphen"/>wiſe done at the <hi>Guild-hall</hi> of the City, by the expreſs Command of the Pro<g ref="char:EOLhyphen"/>voſt of the Merchants. All the people without exception, and eſpecially thoſe of higher quality, as they paſſed in their Coaches through the City, were ſtop<g ref="char:EOLhyphen"/>ped on their way, and forced to drink a Health to King <hi>James,</hi> and the <hi>Prince of Wales,</hi> and to cry out aloud, <hi>The Prince of Orange is dead.</hi> They burnt the Effigies of the <hi>Prince,</hi> and his <hi>Royal Spouſe</hi> the <hi>Princeſs</hi> in ſeveral places, as they had done before at their Bonefires for the Battel of <hi>Flerus,</hi> and the <hi>Na<g ref="char:EOLhyphen"/>val Engagement.</hi> They dragged them through the City, where they made a ſolemn Proceſſion; and there was neither Man nor Woman, great nor ſmall among the People, who did not throw Dirt and Stones at them. Nay, their Indignation was carried higher, they hanged the <hi>Prince of Orange in Effigies</hi> in abundance of Places: amongſt the reſt they led him up and down by way of Proceſſion, with a <hi>Devil</hi> who was to carry him to Hell, having before him a piece of Paper thus inſcribed, <hi>I have waited for thee theſe two years.</hi> During theſe mighty Rejoycings, they broke open the Houſes of ſeveral of the New Converts, and particularly a Grocer's in the <hi>Fawxburghs</hi> of St. <hi>Germain;</hi> they affixed to their Gates a Portraiture of the Prince of <hi>Orange,</hi> crying <hi>He's dead.</hi> They demanded money of others to exempt them from pillaging, and forced 'em to give it, after having committed a thouſand Outrages upon their Perſons. In fine, Sir, I am able to acquaint you, That not the moſt advantagious Suc<g ref="char:EOLhyphen"/>ceſſes we ever met with, nay not the Birth of an <hi>Infant</hi> of <hi>France,</hi> however it was univerſally deſired, ever found ſo agreeable an entertainment, which gave occaſion for one of our celebrated Poets to ſay;</p>
+            <q>
+               <lg>
+                  <l>
+                     <hi>Though</hi> Paris <hi>ſuch Triumphs and Joy has expreſt,</hi>
+                  </l>
+                  <l>
+                     <hi>For the Prince that in</hi> Ireland <hi>was ſlain:</hi>
+                  </l>
+                  <l>
+                     <hi>The news of his death does not half ful my breaſt,</hi>
+                  </l>
+                  <l>
+                     <hi>As the fear of his riſing again.</hi>
+                  </l>
+               </lg>
+            </q>
+            <p>You will ſee, Sir a great deal of pleaſant Poetry on this Subject in a certain re<g ref="char:EOLhyphen"/>markable Paper, which I have ſent you, compoſed after the manner of an Inter<g ref="char:EOLhyphen"/>ment, which they have made of the <hi>Prince</hi>'s Body in <hi>Ireland;</hi> it being a very curious Piece engraved here in the City, by one of the moſt eminent Maſters in that Art, and is every where publickly Sold.</p>
+            <p>With this good News of the Prince of <hi>Orange</hi>'s Death, we have received ſome either welcome Paſſages, as well from <hi>Savoy,</hi> as <hi>Germany.</hi> If they happen to prove true, we ſhall ſcarce find Wood enough to furniſh out our Bonefires; and we aſſuredly hope before the end of the <hi>Campaign,</hi> to have no more Ene<g ref="char:EOLhyphen"/>mies to exerciſe our Valour upon, let their numbers be never ſo great.</p>
+            <p>Theſe Revellings and Maſquerades continued till the 29th of the laſt Month in this City, at <hi>Verſailles,</hi> and St <hi>Germain's en laye,</hi> where three or four thou<g ref="char:EOLhyphen"/>ſand Perſons being aſſembled together, they made their Supplications to King <hi>James,</hi> who arrived there on the 25th to inform them, whether the News of the death of his Son in Law was certain: And ſome of the <hi>King</hi>'s Officers aſſu<g ref="char:EOLhyphen"/>ring them that nothing was more ſure, they made the ſame rejoycing at St. <hi>Ger<g ref="char:EOLhyphen"/>mains</hi>
+               <pb n="3" facs="tcp:49328:2"/>as they did in this City; which Examples were copied by thoſe of <hi>Lyons,</hi> where the Shops was ſhut up for the ſpace of three days ſucceſſively, as well as in ſeveral other places, for the greater ſolemnization of this <hi>Feſtival.</hi>
+            </p>
+            <p>It was not only at <hi>Lyons,</hi> and other principal Cities, that the People teſtified ſo much joy for the Death of the Prince of <hi>Orange,</hi> our irreconciliable Enemy: <hi>Sedan</hi> particularly diſtinguiſhed it ſelf among the reſt; as one of my Friends, a Gentleman of very good Credit acquainted me, who happen'd to be upon the Spot, when this Affair was tranſacting; and it was not many days ago.</p>
+            <p>On <hi>Sunday</hi> the 30th of <hi>July,</hi> They cauſed ſuch Bonefires to be made there, as they had never ſeen before upon any occaſion. The meaneſt Perſon was rated at a good round Sum to defray the Expence, without reckoning the Burgeſſes, who endeavoured all they could to outvy one another in the Magnificence of the Show. They were not forgetful to cauſe ſeveral Repreſentations of the <hi>Prince</hi> to be made. His <hi>Highneſs</hi> was expoſed to ſeveral Fires, having a Tobacco pipe in his Mouth; he was carried to the two <hi>Fauxbourgs</hi> in a large Frame, and the <hi>Princeſs</hi> his <hi>Royal Conſort,</hi> was after the like manner carried to the Houſe of the <hi>Capouchins;</hi> they had both of them <hi>Inſcriptions</hi> before and behind, with theſe words in vaſt legible Characters, <hi>The <g ref="char:V">Ʋ</g>ſurpers.</hi> There was never a Perſon pre<g ref="char:EOLhyphen"/>ſent, who did not p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> forth ſome horrible Reproaches or other upon both of them. They began the Feſtival before the Lodgings of the Governor, with thirty diſcharges of Cannon, and three Vollies of the whole Gariſon. All the ſeveral Companies marched in Proceſſion to the <hi>Dauphin-Fountain,</hi> which run with Wine in abundance, and all thoſe that had a mind to it, drank their Belly full. All the principal Officers performed wonderful things, and afterwards received a ſplendid Entertainment from the Governor. There arrived here a Courier with eſpecial Orders to ſignify to them the Death of the Prince of <hi>Orange.</hi> Imme<g ref="char:EOLhyphen"/>diately after this, the chief Magiſtrate of the Place, publiſhed this agreeable News through the whole Town with the Harmony of Drums, Violins, Hautboys and Flutes, crying in a loud and intelligible Voice, <hi>Come along Gentlemen redouble your Joys, That Tyrant the Prince of</hi> Orange <hi>is dead, the <g ref="char:V">Ʋ</g>ſurper is dead, redouble your Bonefires.</hi> Then the Artillery was diſcharged, and the ſame inſtant, five Pieces of Canon began to thunder, which extremely affrighted the weak and giddy Multitude. This triumph continued all the Night, till eight in the Morning, at which time all the ingenious Wits of the Town laid their Heads together, to concert the matter how they ſhould order the Funeral of the Prince of <hi>Orange.</hi> A certain Spark, <hi>Hamoir</hi> by Name, began the Sport with making the <hi>Epitaph,</hi> which is ſuch a wretched piece of Stupidity and Dulneſs that I would not give my ſelf the trouble to tranſcribe it for you. Another Virtuoſo, whoſe Name was <hi>Van Veld,</hi> a Native of <hi>Leiden,</hi> made the <hi>Prince</hi>'s Effigies, which had the Honour afterwards to be burnt There was like wiſe another Picture of him, to ſerve at the Interment, at which entertaining Ceremony, every Body was obliged to aſ<g ref="char:EOLhyphen"/>ſiſt: They dragged it through the whole Town to the <hi>Torcy,</hi> then it was hanged with the Heels upwards for a conſiderable ſpace; at laſt it was thrown into the <hi>Garene,</hi> which is the receptacle of all the Filth and Ordure of the City. There was a prodigious Concourſe of People all the while; but he that made himſelf the moſt remarkable for his extraordinary Zeal, was the above mentioned Monſ. <hi>Hamoir,</hi> who carried about a certain kind of a Kettle, in ſhape ſomewhat reſembling a Coffin: He had along with him a company of Mourners; <hi>Lepine</hi> the Drummer, commonly call'd the Cuckold, had a Frying-pan cover'd over with black Cloath, upon which he beat a very mournful Tune before the Corps, that was encompaſſed with a truſty Guard of Halberder<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. One <hi>Jardon,</hi> who was Born at <hi>Veroye,</hi> and had been often at <hi>Maſtricht,</hi> ſignaliz<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d himſelf very parti<g ref="char:EOLhyphen"/>cularly
+<pb n="4" facs="tcp:49328:3"/>in this honourable Action, by abundance of fooliſh things he both ſaid and did, during the time of this pretty Repreſentation. Th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Women too had their ſhare in this Feſtival my Friend aſſuring me, that there were ſeveral of them, who to celebrate the Show with that <hi>Devoir</hi> and Solemnity <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was re<g ref="char:EOLhyphen"/>quiſite, abandon'd themſelves to all manner of Debauchery. The holy Fools of <hi>Donchery</hi> purſued the Frolick, ſomewhat farther than thoſe of <hi>Sedan;</hi> but the religious Lunaticks of <hi>Maizieres,</hi> behaved themſelves ſo, as if they had been actually poſſeſſed. If I were acquainted with the Bravery and Valour of Goſſip <hi>Poncelet</hi> of <hi>Rhemes</hi> upon this ſcore, I had not failed to ſend you a full Infor<g ref="char:EOLhyphen"/>mation. That which is exceeding remarkable in regard of the Couriers is this, that they arrived at all theſe places exactly at the ſame time, altho they are not equally diſtant from <hi>Paris.</hi>
+            </p>
+            <p>It is high time now to draw towards a Concluſion, and yet I cannot prevail with my ſelf to do it, without ſaying ſomething of what happen'd at <hi>Bayeux,</hi> in lower <hi>Normandy.</hi> About Fifteen days ago; they ſolemnized the Death of the Prince of <hi>Orange</hi> there, with ſuch an extraordinary Zeal, that one durſt not contradict ſo ill grounded a piece of News, without running the hazard of be<g ref="char:EOLhyphen"/>ing ſtoned. They ordered ſeveral Repreſentations of the <hi>Prince</hi> to be made there; ſome of which were caſt into the common Jakes others were Hang'd, and ſome fell into the pious Hands of the Butchers, who divided them into four Quarters, after the ſame manner as they ſerve the poor Beaſt, who have <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſted the Civilities of the Slaughter-houſe In ſhort, there is no ſort of brutality to be imagined, which theſe well-bred Gentlemen did not commit upon this occaſion, amidſt the tumult and hurry of ſo publick a Rejoycing</p>
+            <p>Neither was there leſs done at <hi>Diepe,</hi> that at <hi>Bayeux,</hi> on the ſcore of this Solemnity.</p>
+            <p>The Name of the Prince of <hi>Orange,</hi> is here become ſo odious and execrable, that they cannot endure to ſee him ſo much as in a piece of Painting. It is al<g ref="char:EOLhyphen"/>moſt an Age ago, ſince at a certain Houſe in <hi>Diepe,</hi> there was ſet-up the Prince of <hi>Orange's</hi> Head for a Sign. The Judg of the Town enjoyn'd the Maſter of the Houſe to take down the Sign immediately; the Maſter at firſt made ſome diffi<g ref="char:EOLhyphen"/>culty to do it, repreſenting to the Judge, that he ought to addreſs himſelf to the Proprietor of the Houſe; and that for his part, he being but only a Tenant, the Expence and Charge was not in Juſtice to fall upon him. But all theſe Re<g ref="char:EOLhyphen"/>monſtrances were to no purpoſe; he was obliged to obey without any more ado; and by Order of the Juſtice, to ſet up the Prince of <hi>Wales,</hi> in the place of the Prince of <hi>Orange,</hi> who was immediately hurried away to Priſon, with beating of Drums, and other great Triumphing.</p>
+            <p>I have found all theſe Paſſages ſo very ſingular and extraordinary, that I was deſirous to communicate them to you, who are my particular good Friend, and from whom I would willingly conceal nothing. If there ſhould happen hereafter any thing, that deſerves to be tranſmitted to you, I will not fail to oblige you with it by the firſt opportunity. Entertain, I beſeech you, Sir, the ſame Complaiſance for your Friend, if any curious matters ſhould happen in your parts. However ſend me nothing which is not exactly true, and therein follow <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Example of </p>
+            <closer>
+               <signed>your moſt humble and moſt obedient Servant. Farewel.</signed>
+            </closer>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi>Licenſed,</hi> Auguſt 11. 1690.</p>
+            <closer>
+               <signed>J. F.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>Lond<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n:</hi> Printed for <hi>Timothy Goodwin,</hi> at the <hi>Maidenhead</hi> againſt St. <hi>Dunſtan</hi>'s Church in <hi>Fleetſtreet.</hi> 1690.</p>
+            <pb facs="tcp:49328:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
